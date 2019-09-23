@@ -1,0 +1,5 @@
+{
+	"name": "cookie",
+	"typings": "src/cookie.d.ts",
+	"compilerVersion": "5.2.28"
+}

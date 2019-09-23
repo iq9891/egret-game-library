@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+    "target": "es5",
+    "outFile": "bin/cookie/cookie.js",
+    "allowJs": true
+	},
+	"files": [
+    "src/cookie.js"
+  ]
+}
